@@ -1,0 +1,244 @@
+/* Smartphones (portrait and landscape) ----------- */
+@media only screen and (min-width : 320px) and (max-width : 480px) {
+    .nav-item.dropdown.dropdown-mega .dropdown-menu {
+        width: 100%;
+      }
+
+      .footer .logo-footer{
+        border-right:none;
+        padding: 20px 120px 20px 0px;
+      }
+
+      .footer .all-btn-contact{
+        display: flex;
+        justify-content: flex-start;
+      }
+      .footer .container-fluid-footer-1 {
+        padding: 6% 8.5%;
+    }
+    .menu1 .col-mail, .menu1 .col-links{
+      display: flex;
+      justify-content: start;
+    }
+
+    .menu1 .flag-lang{
+      margin-left: -12px;
+    }
+    .menu1 .social-media {
+      margin-left: 78px;
+  }
+  .menu1 a{
+    font-size: 12px;
+  }
+  .menu1 .links a{
+    font-size: 12px;
+  }
+  .menu1 .links {
+   text-align: start; 
+    margin-right: 0px; 
+}
+.contnet .content {
+  position: absolute;
+  top: 103px;
+  left: 54px;
+}
+.home_carousel h1 {
+
+  font-size: 51px;
+  width: 82%;
+
+
+}
+.home_carousel .owl-carousel .item, .home_carousel .owl-carousel .item .contnet {
+  height: 85vh;
+  width: auto;
+}
+ .all-title-text {
+  width: 100%;
+}
+
+.section_solutions .owl-nav {
+  position: absolute;
+  top: -187px;
+  right: 23px;
+}
+ .all-title-text h1 {
+  color: black;
+  font-family: BarlowC;
+  font-weight: bold;
+  font-size: 39px;
+  line-height: 48px;
+}
+.section_techno .content-tech {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.section_techno .text-tech {
+  width: 89%;
+}
+.section_techno .logo-tech {
+  width: 100%;
+}
+
+.margin_row_2 {
+  margin-top: 4px;
+}
+.section_sector .owl-nav, .section_sector .owl-nav {
+  position: absolute;
+  top: -161px;
+  right: 0px;
+}
+.section_service .all-title-text h1 {
+  width: 100%;
+}
+.box-gradient {
+ 
+  padding: 56px 0px;
+}
+
+.section_tab .row-flex {
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+  align-items: center;
+}
+.section_tab .bloc1{
+  display: flex;
+  flex-direction:column;
+  align-items: center;
+
+
+}
+.section_tab h1 {
+
+  margin-top: 29px;
+}
+.section_header .links {
+
+  left: 18px;
+  margin-top: 114px;
+}
+
+.section-text-oil .paragraphe p {
+
+  padding-left: 28px;
+}
+
+.btn-product i {
+  padding-left: 99px;
+ 
+}
+
+#section_product_oil .owl-nav, #section_product_oil .owl-nav {
+  top: -117px;
+}
+}
+
+
+
+/* iPads (portrait and landscape) ----------- */
+@media only screen and (min-width : 768px) and (max-width : 1024px) {
+    .nav-item.dropdown.dropdown-mega .dropdown-menu {
+        width: 100%;
+      }
+
+      .footer .logo-footer{
+        border-right:none;
+        padding: 20px 120px 20px 0px;
+      }
+
+      .footer .all-btn-contact{
+        display: flex;
+    justify-content: flex-start;
+      }
+      .footer .container-fluid-footer-1 {
+        padding: 6% 8.5%;
+    }
+    .menu1 .links {
+      text-align: start; 
+       margin-right: 0px; 
+   }
+   .home_carousel .owl-carousel .item, .home_carousel .owl-carousel .item .contnet {
+    height: 50vh;
+    width: auto;
+}
+.contnet .content {
+  position: absolute;
+  top: 129px;
+  left: 126px;
+}
+.all-title-text {
+  width: 100%;
+}
+.section_solutions .owl-nav {
+  position: absolute;
+  top: -94px;
+  right: 55px;
+}
+.section_techno .content-tech {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.section_techno .logo-tech {
+  width: 100%;
+}
+.section_techno .text-tech {
+  width: 100%;
+}
+.section_sector .white-box {
+  margin-left: 8px;
+}
+
+.margin_row_2 {
+  margin-top: 7px;
+}
+
+.section_service .all-title-text h1 {
+ 
+  width: 100%;
+}
+
+.section_sector .all-title-text h1, .section_solutions .all-title-text h1 {
+ 
+  width: 77%;
+}
+
+.box-gradient {
+ 
+  padding: 56px 0px;
+}
+.section_tab .row-flex {
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+  align-items: center;
+}
+.section_tab h1 {
+
+  margin-top: 29px;
+}
+
+.solution-part1 .white-box {
+ 
+  padding: 15px 23px;
+
+}
+
+.section_header .links {
+
+  right: 100px;
+
+}
+
+.section_help .card {
+
+  min-height: 811px;
+}
+
+.btn-product i {
+  padding-left: 101px;
+}
+ 
+}

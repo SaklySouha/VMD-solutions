@@ -1,0 +1,10 @@
+<svg id="mail" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" viewBox="0 0 21.153 14.392">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.068" y1="0.638" x2="0.883" y2="1.579" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#852888"/>
+      <stop offset="1" stop-color="#e47cb0"/>
+    </linearGradient>
+  </defs>
+  <path id="Tracé_70" data-name="Tracé 70" d="M44.8,68.693l-6.85,6.036-6.852-6.036a.658.658,0,1,0-.87.988l7.287,6.42a.658.658,0,0,0,.87,0l7.285-6.42a.658.658,0,1,0-.87-.987Z" transform="translate(-27.368 -65.896)" fill="url(#linear-gradient)"/>
+  <path id="Tracé_71" data-name="Tracé 71" d="M19.179,38.529H1.974A1.977,1.977,0,0,0,0,40.5V50.946A1.977,1.977,0,0,0,1.974,52.92h17.2a1.977,1.977,0,0,0,1.974-1.974V40.5A1.977,1.977,0,0,0,19.179,38.529Zm.658,12.417a.659.659,0,0,1-.658.658H1.974a.659.659,0,0,1-.658-.658V40.5a.659.659,0,0,1,.658-.658h17.2a.659.659,0,0,1,.658.658Z" transform="translate(0 -38.529)" fill="url(#linear-gradient)"/>
+</svg>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="82.507" height="39.333" viewBox="0 0 82.507 39.333">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#a74696"/>
+      <stop offset="1" stop-color="#e47cb0"/>
+    </linearGradient>
+    <clipPath id="clip-path">
+      <path id="Tracé_885" data-name="Tracé 885" d="M16.264,0a1.2,1.2,0,0,0-1.205,1.222V28.639l-3.1-11.785a1.224,1.224,0,0,0-2-.6l-2.12,1.892H1.226a1.226,1.226,0,1,0,0,2.452H8.3a1.239,1.239,0,0,0,.818-.311l.974-.874,5,19.005a1.225,1.225,0,0,0,2.41-.311V9.63L21.17,21.923a1.223,1.223,0,0,0,1.954.6l5.48-4.527,2.241,2.241a1.226,1.226,0,0,0,.867.363H81.281a1.226,1.226,0,0,0,0-2.452H32.22l-2.673-2.673a1.229,1.229,0,0,0-1.647-.079l-4.91,4.061L17.455.877A1.22,1.22,0,0,0,16.295,0Z" fill="url(#linear-gradient)"/>
+    </clipPath>
+  </defs>
+  <g id="Groupe_402" data-name="Groupe 402" transform="translate(-984 -1604)">
+    <g id="Groupe_401" data-name="Groupe 401" transform="translate(984 1604)">
+      <g id="Groupe_400" data-name="Groupe 400" clip-path="url(#clip-path)">
+        <rect id="Rectangle_719" data-name="Rectangle 719" width="82.507" height="39.333" transform="translate(0 0)" fill="url(#linear-gradient)"/>
+      </g>
+    </g>
+  </g>
+</svg>
