@@ -38,6 +38,10 @@
   padding: 1% 8.5%;
 }
 
+.container-fluid-nav {
+  padding: 1% 2.5%;
+}
+
 
 
 
@@ -52,6 +56,14 @@
   to {
     opacity: 1;
   }
+}
+
+.bold_upper{
+  text-transform: uppercase;
+  font-family: BarlowC;
+  font-weight:bold;
+  font-size: 22px;
+
 }
 
 .dropdown-menu.show {
@@ -1007,7 +1019,7 @@ h1 .bg-orange {
 }
 .section_header .box {
 background-color: var(--OrangeColor);
-width: 333px;
+width: 43%;
 padding: 20px;
 position: relative;
 top:100px;
@@ -1119,6 +1131,7 @@ margin:45px 0px 45px 0px;
     font-family: Barlowc;
     font-weight: bold;
     color:black;
+    text-transform: uppercase;
   }
 
   .solution-part3 .content-box{
@@ -1431,5 +1444,57 @@ margin-top: 200px;
   color: #616161;
   text-align: justify;
 
+}
+
+.nav-contact {
+  margin-left: 39px;
+  display: flex;
+    flex-direction: row;
+    align-items: center;
+
+}
+
+.nav-contact img {
+  margin-right: 10px;
+ 
+}
+
+.content-text b {
+  font-family: BarlowC;
+  font-size: 17px;
+ 
+}
+
+ .tel-nav {
+  margin: 0px !important;
+}
+
+ .tel-nav a {
+text-decoration: none;
+color:var(--BlackColor);
+font-family: BarlowC;
+
+}
+
+.tel-nav a:hover {
+  color:var(--OrangeColor);
+
+  
+  }
+
+
+  /* -------------- sectors --------------------------- */
+.sector{
+  margin-top: 100px;
+
+}
+
+.solution-img{
+  width: 17% !important;
+}
+
+.border-l{
+  border-left: 8px solid #616161;
+  padding-left: 20px;
 }
 
